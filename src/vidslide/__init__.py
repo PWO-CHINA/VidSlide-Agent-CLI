@@ -5,7 +5,7 @@ PowerPoint slides from video recordings with reliable state management,
 immutable assets, and structured output protocols.
 """
 
-__version__ = "0.4.1-agent.1"
+__version__ = "0.1.0"
 __engine_baseline__ = "legacy-v041"
 __baseline_commit__ = "66ec86808443509df86fbc8d82e5188d8eb90ffc"
 
